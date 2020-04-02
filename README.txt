@@ -11,4 +11,4 @@ of a brief yet valid scale for an experience-sampling paradigm. It second, requi
 derived from econometrics was applied to disect participants' sentiments from the events in their life. 
 
 The M.Sc. thesis was honored as best dissertation of the Master-programme, and received the LSE's Rob-Farr award.
-In the respective folder you will find the R-code for the data-pipeline and analysis, as well as the M.Sc. thesis. 
+In the respective folder you will find the R-code for the data-pipeline and analysis, as well as the M.Sc. thesis itself. 
