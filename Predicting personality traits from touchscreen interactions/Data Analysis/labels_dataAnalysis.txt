@@ -1,0 +1,29 @@
+-- ProcessStudieGiorgio.R -- 
+load the two aggregated features set (studie1 and studie2)
+divide the 'count' variables by the session length.
+unify columns names, columns and variable-types between the 
+two data sets. 
+output: data_aggregated.csv --> contain both data sets.
+
+-- DataAnalysis.R --
+throw out conditions that are not 'normal' scenario.
+dimensionality reduction with 0.8
+interpolation of missing values in Big5 with means.
+several handy loops for inspecting the data.
+
+-- runAll.R --
+the classification. 
+i found it very cumbersome in R to write functions which take
+columns of data-frames as agruments. It is therefore much easier
+to user the "search" toolbar on the upper side of the code-window,
+type "extra" and in the replace window e.g. "neuro".
+Once the code is written for one dimension it can be copy-and-pasted
+this way within few seconds. 
+the example works with extraversion.
+- code sets up table which neatly reports confidence intervals,
+significance, etc for all classifiers.
+- target class is made.
+set.seed operators make sure results are compareable cross classifiers. 
+
+-- big5 visual --
+number of plots for the dimensions.

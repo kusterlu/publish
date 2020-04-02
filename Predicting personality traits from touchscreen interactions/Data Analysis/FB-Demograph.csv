@@ -1,0 +1,62 @@
+VP,UserId,Age,Genre,Education_Level,Handedness,Handedness_Cmd,Handedness_Score,Glasses’ wearer,Injury,Has a Smartphone,How often use SP,Hours_of_use_SP,Level of expertise,Brand S.phone,Has a Tablet,Brand Tablet,How often use T.,Hours_of_use_T,Level expertise T.,Left Hand,Right hand,Left Hand,Right Hand
+601,184,29,F,,RIGHT,,,NO,NO,YES,Daily,,5,Apple; Samsung,YES,Samsung,Occasionally,,4,Hand,Stand,Table,Hand
+602,185,26,M,Bsc. Computer Science,RIGHT,,,NO,NO,YES,Daily,,5,Apple ,NO,/,Never,,1,Stand,Stand,Hand,Hand
+603,186,24,F,High School,RIGHT,,,NO,YES,YES,Daily,,4,Samsung,YES,Lenovo,Weekly,,4,Table,Stand,Hand,Hand
+604,187,33,M,/,RIGHT,,,/,/,/,/,,/,/,/,/,/,,/,Stand,Stand,Table,All ok
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,
+611,190,23,M,BSc.,RIGHT,,8,NO,NO,YES,Daily,2,4.8,Apple ,YES,Apple,Daily,0.5,2.9,Hand,Stand,Table,Hand
+612,191,23,F,BSc.,RIGHT,,10,NO,NO,YES,Daily,3,7.6,Apple ,YES,Apple,Weekly,1,4.1,Stand,Hand,Hand,All ok
+613,192,23,F,BSc.,RIGHT,MIXED: Write with Left hand,3,NO,NO,YES,Daily,1,5.4,Samsung,NO,/,/,/,/,Table,All ok,Stand,All ok
+614,193,30,M,High School,RIGHT,,9,YES,NO,YES,Daily,4.5,4.5,Apple ,YES,Apple,Daily,1,3.9,Stand,Stand,Hand,Table
+615,194,28,F,High School,RIGHT,,9,NO,NO,YES,Daily,4,8,Samsung,YES,Other,Monthly,10,7.1,Table,Stand,Stand,Table
+616,195,31,F,Secondary School,RIGHT,,10,YES,YES,YES,Daily,5,7.7,HTC,YES,Apple,Daily,4,8.5,Stand,Alle ok,Table,Table
+617,196,24,F,High School,RIGHT,,10,YES,NO,YES,Daily,3,4.8,Apple ,NO,/,/,/,4.6,Stand,Stand,Hand,Hand
+618,197,22,M,High School,LEFT,,-10,YES,NO,YES,Daily,2,5.9,Samsung,NO,/,/,/,/,Table,Table,Stand,Hand
+619,198,28,M,BSc.,LEFT,,-8,YES,NO,YES,Daily,1,2.6,LTE,NO,/,/,/,2.3,Stand,Stand,Table,Table
+620,199,20,M,High School,RIGHT,,9,YES,NO,YES,Daily,2,8.1,Huawei,NO,/,/,/,2.9,Stand,Stand,Hand,Hand
+621,200,31,F,BSc.,RIGHT,,10,NO,NO,YES,Daily,5,7.5,Samsung,YES,Lenovo,Weekly,5,6.9,Stand,Stand,Table,Hand
+622,201,18,M,High School,RIGHT,,7,NO,YES,NO,/,/,4.3,/,YES,Apple,Daily,4,7.1,Hand,Hand,Table,Table
+623,202,30,M,BSc.,LEFT,,-9,YES,YES,YES,Daily,3,7,LG,YES,DELL,Weekly,5,5.5,All ok,Hand,All ok,Stand
+624,203,31,F,MSc.,RIGHT,,10,YES,NO,YES,Daily,3,8.1,Huawei,NO,/,/,/,3.8,Stand,Stand,Hand,Hand
+625,204,24,F,High School,RIGHT,,10,NO,YES,YES,Daily,3,8.4,Apple ,YES,Samsung,Monthly,10,7.6,Stand,Stand,Table,Table
+626,205,24,F,High School,RIGHT,,8,NO,NO,YES,Daily,14,7.4,Samsung,YES,Apple,Weekly,72,3.9,Hand,Stand,Table,Table
+627,206,25,M,BSc.,LEFT,,-10,NO,YES,YES,Daily,1.75,8.4,Apple ,NO,/,/,/,/,Hand,Hand,Table,Table
+628,207,22,M,High School,RIGHT,,10,NO,NO,YES,Daily,5.5,8,Apple ,YES,Apple,Daily,1.5,8.4,Stand,Hand,Table,Table
+629,208,23,M,BSc.,RIGHT,,8,NO,NO,YES,Daily,2.5,8.8,Apple ,YES,Apple,Daily,1,8.7,Stand,All ok,Hand,All ok
+630,209,28,M,BSc.,RIGHT,,7,YES,NO,YES,Daily,3,5.4,Apple ,YES,Apple,Weekly,5,4.9,Table,Stand,Hand,Hand
+631,210,19,F,High School,LEFT,,-6,YES,NO,YES,Daily,5,6.4,Apple; Samsung,NO,/,/,/,/,Hand,Hand,Stand,Table
+632,211,21,F,High School,LEFT,,-10,YES,NO,YES,Daily,3,7.8,Samsung,YES,Apple,Weekly,2,5.4,Hand,Stand,Table,Table
+633,212,23,F,BSc.,LEFT,MIXED,-4,YES,NO,YES,Daily,2,6.1,Samsung,YES,Samsung,Weekly,5,6,Stand,Stand,Hand,Hand
+634,213,26,M,BSc.,LEFT,,-10,NO,NO,YES,Daily,14,7.5,Nokia,YES,Other,Daily,0.5,5.1,Stand,Stand,Table,Table
+635,214,34,F,BSc.,LEFT,,-10,NO,NO,YES,Daily,2.5,5.6,Samsung,NO,/,/,/,/,Hand,Stand,Table,Table
+636,215,29,F,High School,RIGHT,,10,NO,NO,YES,Daily,3,7.9,Apple ,YES,Other,Weekly,2,6.2,Hand,Stand,Table,Table
+637,216,,,,,,,,,,,,,,,,,,,,,,
+638,217,20,M,High School,RIGHT,,9,YES,YES,YES,Daily,3,6.5,Apple ,YES,Apple,Monthly,15,6.5,Stand,Stand,Hand,Hand
+639,218,22,F,High School,RIGHT,,9,YES,NO,YES,Daily,1.5,7.9,Apple ,YES,Apple,Daily,4,8.5,Hand,Hand,Table,Table
+640,219,27,F,BSc.,RIGHT,,10,YES,NO,YES,Daily,3,2.1,Sony,NO,/,/,/,/,Stand,Stand,Hand,Table
+641,220,20,M,High School,LEFT,,-9,YES,YES,YES,Daily,3,6.7,Apple ,NO,/,/,/,/,All ok,Stand,Table,Table
+642,221,23,M,BSc.,RIGHT,,10,NO,NO,YES,Daily,6,8.4,Apple ,YES,Apple,Weekly,4,8.6,Stand,Table,Hand,Hand
+643,222,32,M,BSc.,RIGHT,,10,NO,NO,YES,Daily,3,5.8,Samsung,NO,/,/,/,4,Stand,Table,Hand,Hand
+644,223,30,F,High School,RIGHT,,9,YES,NO,YES,Daily,2,7.6,Samsung,YES,Samsung,Monthly,5,5.6,Hand,Stand,Table,Table
+645,224,25,M,BSc.,LEFT,MIXED,-4,NO,NO,YES,Daily,2,3.9,HTC,YES,Windows,Daily,4,3.7,All ok,Hand,Table,Table
+646,225,29,F,MSc.,RIGHT,,10,YES,NO,YES,Daily,4,4.9,Apple ,NO,/,/,/,2.8,Stand,All ok,Table,All ok
+647,226,29,M,BSc.,LEFT,,-6,NO,NO,YES,Daily,1,8.7,Sony,NO,/,/,/,6.9,Stand,Stand,Table,Table
+648,227,32,M,BSc.,LEFT,,-10,NO,NO,YES,Daily,3,5.6,Samsung,YES,Medion,Weekly,5,4,Stand,Stand,Table,Table
+649,228,31,M,Secondary School,RIGHT,,10,NO,NO,YES,Daily,3.5,7.9,Apple ,YES,Apple,Weekly,9,5.2,Stand,Stand,Hand,Hand
+650,229,23,M,High School,RIGHT,,10,YES,NO,YES,Daily,0.5,7,Samsung,NO,/,/,/,/,Hand,Stand,Table,Table
+651,230,20,M,High School,RIGHT,But write with Left,7,YES,NO,YES,Daily,2,8.1,Wiko,YES,Medion,Daily,1,6,Hand,Stand,Table,Table
+652,231,26,M,BSc.,RIGHT,,10,NO,NO,YES,Daily,2,4.8,Apple ,YES,Lenovo,Daily,4,4.9,Stand,Stand,Hand,Table
+653,232,40,M,High School,RIGHT,,10,NO,NO,YES,Daily,4,7,Apple ,YES,Samsung,Daily,1,4.9,Stand,All ok,Table,Table
+654,233,28,F,BSc.,RIGHT,,8,YES,NO,YES,Daily,4,7.8,Apple; Lenovo ,YES,Apple,Weekly,10,8.4,Hand,Table,All ok,All ok
+655,234,25,F,BSc.,LEFT,,-10,YES,YES,YES,Daily,5,8.9,Huawei,NO,/,/,/,/,Stand,Hand,Table,Table
+656,235,,,,,,,,,,,,,,,,,,,,,,
+657,236,,,,,,,,,,,,,,,,,,,,,,
+658,237,,,,,,,,,,,,,,,,,,,,,,
+659,238,,,,,,,,,,,,,,,,,,,,,,
+660,239,,,,,,,,,,,,,,,,,,,,,,
+661,240,,,,,,,,,,,,,,,,,,,,,,
+662,241,,,,,,,,,,,,,,,,,,,,,,
+663,242,,,,,,,,,,,,,,,,,,,,,,

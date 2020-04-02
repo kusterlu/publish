@@ -1,0 +1,12 @@
+1) -- AggregateFeatures.R -- 
+Load aggreagated data Study1
+Filter out Spell game and 'normal' condition
+Prepare set for later merge with Study2:
+- create 'Handedness'
+- manually code 'condition' variable following the standard of 
+  Study2, described in the "Condition explanation table"
+disabled code-parts contain:
+- a routine to spot correlations and output correlation,
+  p-value, and lm-coefficient in one table for all detected 
+  variables.
+Output: AG.csv

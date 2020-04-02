@@ -1,0 +1,27 @@
+-- aggregation.R -- 
+The code is taken from Carolas aggregation and adapted to work on this 
+new data set. It aggregates InteractionDataStudie01.Rda into higher level features.
+In the outsourced code-file 
+"preprocessData.R" is deactivated in big parts. 
+UserID=216 is excluded as it is 
+"the guy who showed up for the wrong study" (and did not complete it).
+Note that this file run only, if there are exactly 12 sessions for every 
+subject. Otherwise the big loop in the end crashes. 
+line 54-83 provides tools for checking the number of sessions per VP,
+and if necessary removing them.
+output: 1) FeaturesStudie_cleaned.Rda
+        2) AggregatedFeaturesPerSession_cleaned.Rda
+Note: The last loop in the code takes around 30 min to run. However, it works and
+I simply had lunch during that time instead of fixing it. 
+But for the protocol, in my opinion the problem is:
+For each VP the code runs through all 500 sessions. This is unnecessary as
+every VP owns and needs only a handful of sessions, and not all.
+The code calculates 497 values for every VP, which are not needed and
+later discarted. 
+
+-- extract_duration.R --
+for some reason the initial duration-computation does not work on the Study2 data.
+this code a) calculated the sessions durations,
+b) manually fixes some sessions which were 'split in two': because the App
+sometimes crashed, Giorgio let the subject play the remaining time in what is
+counted a new sessions. These few cases are manually merge into one session.

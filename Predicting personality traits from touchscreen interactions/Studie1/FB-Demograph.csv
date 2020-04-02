@@ -1,0 +1,34 @@
+VP;Spielzeit;Neutralisierungszeit;Quiz-Freezing-Prob;Alter;Geschlecht;Beruf;Schulabschluss;Smartphone;H_ufigkeitSmartphone;> 1x in der Stunde;1x in der Stunde;1x am Tag;1x in der Woche;ab und zu ;TypenSmartphone;Tablet;H_ufigkeitTablet;> 1x in der Stunde;1x in der Stunde;1x am Tag;1x in der Woche;ab und zu ;TypenTablet;Haeufigkeit_Freezing;Stoert_Freezing;Haeufigkeit_Aussetzer;Stoert_Aussetzer;Haeufigkeit_TinyIcons;Stoert_TinyIcons;Haeufigkeit_Absturz;Stoert_Absturz;wenigstenGefallen;Stoeren_QuizApp;ungest_rt;Freezing;TinyIcons;Stoeren_SpellApp;ungest_rt;Freezing;TinyIcons;N-eurotizismus;E-xtraversion;O-ffenheit fÙr Erfahrung;V-ertr_glichkeit;G-ewissenhaftigkeit
+1;5;1,5;50;33;m;Student;Abitur;ja;oft;x;;;;;Apple;ja;woechentlich;;;;x;;Apple;3;2;4;2;3;2;4;2;;;;;;;;;;19;34;33;34;36
+2;3;1;25;29;m;Student;Abitur;ja;oft;x;;;;;HTC, Blackberry;nein;;;;;;;;2;2;4;4;2;1;3;1;;;;;;;;;;20;28;29;34;31
+3;2;0;25;24;w;Student;Abitur;ja;stuendlich;;x;;;;Samsung;ja;oft;x;;;;;Lenovo;2;1;2;1;4;4;4;2;Spell;Freezing;;x;;Both;;x;x;36;25,09090909;39;36;27
+4;;;;20;m;Student;Abitur;ja;oft;x;;;;;Huawei;nein;;;;;;;;3;3;3;2;4;2;5;1;Spell;Freezing;;x;;TinyIcons;;;x;8;25;29;32;37
+5;;;;29;w;Student;Abitur;ja;stuendlich;;x;;;;Huawei;ja;stuendlich;;x;;;;Amazon Fire;5;3;5;4;;;5;2;Spell;Freezing;;x;;TinyIcons;;;x;14;24;36;39;29
+6;;;;28;w;Student;Abitur;ja;oft;x;;;;;Samsung;nein;;;;;;;;;;4;2;;;3;1;Spell;Freezing;;x;;TinyIcons;;;x;15;27;43;38;36
+7;;;;23;w;Student;Abitur;ja;oft;x;;;;;Samsung;ja;abUndZu;;;;;x;k.A.;3;4;5;5;5;2;5;1;Spell;Freezing;;x;;Freezing;;x;;33;23;30,54545455;37;27
+8;;kalte Finger (Fahrradfahren);;31;w;Fitness Trainer;Hochschulreife;ja;oft;x;;;;;Google Nexus;nein;woechentlich;;;;x;;Google Nexus;4;1;4;2;4;3;5;1;Spell;Freezing;;x;;TinyIcons;;;x;31;18;25;27;28
+9;;;;28;w;Student;Abitur;ja;oft;x;;;;;Samsung;ja;taeglich;;;x;;;k.A.;3;2;;;2;1;4;2;Spell;Freezing;;x;;Freezing;;x;;26;33;21;35;31
+10;;;;29;m;Student;Abitur;ja;oft;x;;;;;Sony;ja;taeglich;;;x;;;Samsung;4;4;;;;;4;4;Spell;Freezing;;x;;Freezing;;x;;22;23;32;24;29
+11;;;;28;w;Gesundheits- und Krankenpflegerin;Abitur;ja;stuendlich;;x;;;;Sony;ja;taeglich;;;x;;;Microsoft;1;2;2;2;3;4;3;1;Quiz;Freezing;;x;;Freezing;;x;;11;24;27;33;41
+12;;;;30;w;Gro¤handelskauffrau;Abitur;ja;taeglich;;;x;;;HTC;ja;oft;x;;;;;Toshiba;2;1;;;2;3;4;1;Spell;Freezing;;x;;Freezing;;x;;31;9;30;26;34
+13;;;;27;w;Student;Hochschulreife;ja;oft;x;;;;;Huawei;nein;;;;;;;;4;2;4;4;5;4;5;2;Spell;Freezing;;x;;Freezing;;x;;22;26;32;35;24
+14;;nicht-muttersprachler?;;33;m;Student;Abitur;ja;oft;x;;;;;Huawei;ja;abUndZu;;;;;x;Kindle;4;3;1;2;4;4;4;1;Spell;Both;;x;x;TinyIcons;;;x;16;32;31;35;36
+15;;;;33;m;Angestellter;Hochschulabschluss;ja;stuendlich;;x;;;;Apple, Huawei;ja;woechentlich;;;;x;;Lenovo;3;2;2;1;;;4;1;Spell;TinyIcons;;;x;Freezing;;x;;29;31;44;22;23
+16;;;;28;w;Student;Abitur;ja;stuendlich;;x;;;;Samsung;ja;stuendlich;;x;;;;Lenovo;5;1;4;2;;;5;3;Spell;TinyIcons;;;x;TinyIcons;;;x;8;29;21;32;31
+17;;;;29;w;Student;Abitur;ja;stuendlich;;x;;;;XIAOMI;nein;;;;;;;;4;3;4;2;3;2;4;1;Spell;Freezing;;x;;Freezing;;x;;19;24;37;39;33
+18;;;;24;w;Student;Abitur;ja;;;;;;;Cubot;nein;;;;;;;;3;3;;;4;2;4;1;Spell;TinyIcons;;;x;TinyIcons;;;x;19;24;27;29;35
+19;;;;34;m;Selbststaendig;Abitur;ja;oft;x;;;;;Samsung;ja;stuendlich;;x;;;;Samsung;;;;;;;;;Spell;Freezing;;x;;Freezing;;x;;12;23;25;32;32,72727273
+20;;linksh_nderin;;36;w;Kinderg_rtnerin;12. Klasse;ja;oft;x;;;;;Samsung;ja;abUndZu;;;;;x;Samsung;;;;;;;;;Spell;Freezing;;x;;Freezing;;x;;13;29;33;34,90909091;33
+21;;;;25;w;Student;Allgemeine Hochschulreife;ja;stuendlich;;x;;;;Apple;nein;abUndZu;;;;;x;Samsung;3;2;5;3;2;1;5;2;Spell;Freezing;;x;;Freezing;;x;;36;26;34;24;33
+22;;;;31;w;Medienwissenschaftler;Abitur;ja;oft;x;;;;;Sony;nein;;;;;;;;4;3;;;3;2;;;Spell;Freezing;;x;;TinyIcons;;;x;12;25;45;33;37
+23;;;;20;m;Student;Abitur;ja;oft;x;;;;;Apple;ja;abUndZu;;;;;x;Apple;4;4;2;3;1;2;4;1;Spell;Freezing;;x;;Freezing;;x;;6;29;27,27272727;27;37
+24;;ab hier auch Touches bei Quiz Freezing;;28;m;Student;Abitur;ja;stuendlich;;x;;;;Sony;nein;;;;;;;;5;3;5;3;5;3;5;3;Spell;Freezing;;x;;Freezing;;x;;20;27;20;27;35
+25;;;;27;m;Student;Abitur;ja;oft;x;;;;;Apple;nein;;;;;;;;4;2;4;3;;;5;1;Spell;Freezing;;x;;TinyIcons;;;x;18;25;23;30;19
+26;;;;27;m;Student;Abitur;ja;oft;x;;;;;XiaoMI;ja;abUndZu;;;;;x;Odys;3;2;3;3;5;4;4;3;Spell;Freezing;;x;;Freezing;;x;;11;30;32;34;28
+27;;zitternde H_nde /Biergeruch;;31;w;Student;Abitur;ja;stuendlich;;x;;;;Samsung;nein;;;;;;;;3;2;3;1;4;3;3;1;Spell;Freezing;;x;;Freezing;;x;;13;33;35;36;40
+28;;;;27;m;Airport-BaggageHandling;Abitur;ja;stuendlich;;x;;;;Samsung;nein;;;;;;;;3;3;2;2;3;3;5;5;Spell;TinyIcons;;;x;TinyIcons;;;x;28;27;25;30;25
+29;;;;25;m;Student;Abitur;ja;stuendlich;;x;;;;XiAOMI;ja;abUndZu;;;;;x;HP;2;3;4;3;5;4;5;1;Spell;Freezing;;x;;TinyIcons;;;x;8;24;28;31;43
+30;;;;30;m;Student;Abitur;ja;oft;x;;;;;Apple, Samsung;ja;taeglich;;;x;;;Apple;5;5;4;5;5;5;4;4;Quiz;Freezing;;x;;Freezing;;x;;14;37;19;22;38
+31;;;;28;m;Ingenieur;Abitur;ja;stuendlich;;x;;;;Apple;nein;;;;;;;;3;1;4;2;;;;;Spell;Freezing;;x;;Freezing;;x;;15;25;21;27;33
+32;;Tablet in der Hand (teilweise);;26;m;Student;Abitur;ja;stuendlich;;x;;;;Sony;nein;;;;;;;;4;2;3;3;3;3;5;2;Quiz;Freezing;;x;;TinyIcons;;;x;11;36;34;35;28
+33;;;;27;m;Student;Abitur;ja;oft;x;;;;;Apple;ja;taeglich;;;x;;;Samsung;5;;3;;;;;4;Spell;Freezing;;x;;Freezing;;x;;17;29;39;34;36
